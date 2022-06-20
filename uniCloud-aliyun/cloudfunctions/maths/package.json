@@ -1,0 +1,7 @@
+{
+  "name": "maths",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
